@@ -22,3 +22,10 @@ usage is allowed and won't cause issues for other users or applications.
 
 - Testing Environment: Preferably run this type of program in a controlled environment, 
 such as a virtual machine, to prevent impacting your main system's stability.
+
+## Support
+
+If you find this project helpful, consider supporting me on [Buy Me a Coffee](https://www.buymeacoffee.com/cyberxcyborg).
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cyberxcyborg)
+
